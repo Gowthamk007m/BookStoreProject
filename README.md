@@ -29,14 +29,4 @@ $ py manage.py runserver
 
 
 
-### Features:
 
-  *User-friendly interface for easy navigation<br>
-  *Registration and login with Aadhar card and Pan card<br>
-  *Approval required for new registrations<br>
-  *Business people can post their ideas and proposals<br>
-  *Investors can view the ideas and proposals and post their investment requirements<br>
-  *Bankers can post their loan and asset details<br>
-  *Business advisors can post their advice and solutions to user queries<br>
-  *Responsive platform with HTML5, CSS3, and Bootstrap<br>
-  *Back-end uses PHP and MYSQL, and the control end uses Angular JavaScript
